@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# 환경 설정 파일
+.env
+
+# OS 관련 파일
+.DS_Store
+
+# 로그 파일
+*.log
+logs/
+
+# 빌드 파일
+dist/
+build/
